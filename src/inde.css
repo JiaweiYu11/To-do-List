@@ -1,0 +1,36 @@
+.outer{
+    background-color: #bfa;
+    
+    width: 600px;
+    margin: 50px auto;
+    border: black 3px double;
+    
+}
+.header,.list,.footer{
+    padding: 15px 20px;
+    border: black 3px double;
+    list-style: none;
+}
+.notice{
+    color: red;
+    position: relative;
+    left: 15px;
+    font-weight: bolder;
+}
+.list-btn,.foot-btn{
+    float: right;
+}
+.item-li{
+    margin: 0 auto;
+    border: #bfa 3px solid;
+}
+.header-title{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: white double 3px;
+    margin-bottom: 30px;
+}
+.title-span{
+    position: relative;
+    left: 200px;
+}
